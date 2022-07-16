@@ -1,6 +1,6 @@
 # Your full site URL. Example:
 # "https://<username>.neocities.org/"
-baseURL = ""
+baseURL = "https://master--relaxed-tanuki-27c75c.netlify.app/"
 languageCode = "en-us"
 # Title of your site
 title = "οἶκοι"
@@ -10,7 +10,7 @@ paginate = 6
 theme = "neofeed-theme"
 
 [taxonomies]
-tag = "tags"
+tag = "my space"
 
 [author]
 name = "ὑπόγαιον" # Your online name
