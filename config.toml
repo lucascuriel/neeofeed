@@ -1,6 +1,6 @@
 # Your full site URL. Example:
 # "https://<username>.neocities.org/"
-baseURL = "https://master--relaxed-tanuki-27c75c.netlify.app/"
+baseURL = "/"
 languageCode = "en-us"
 # Title of your site
 title = "οἶκοι"
